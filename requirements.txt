@@ -1,0 +1,5 @@
+discord.py
+praw
+foaas
+numpy
+opencv-python-headless
